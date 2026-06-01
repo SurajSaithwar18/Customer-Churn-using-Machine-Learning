@@ -1,0 +1,28 @@
+[ 2026-06-01 23:02:13,171 ] 56 root - INFO - Loading object from artifacts/model.pkl
+[ 2026-06-01 23:02:20,721 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:02:20,722 ] 56 root - INFO - Loading object from artifacts/preprocessor.pkl
+[ 2026-06-01 23:02:21,172 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:02:28,640 ] 56 root - INFO - Loading object from artifacts/model.pkl
+[ 2026-06-01 23:02:28,642 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:02:28,642 ] 56 root - INFO - Loading object from artifacts/preprocessor.pkl
+[ 2026-06-01 23:02:28,645 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:02:59,260 ] 56 root - INFO - Loading object from artifacts/model.pkl
+[ 2026-06-01 23:02:59,262 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:02:59,263 ] 56 root - INFO - Loading object from artifacts/preprocessor.pkl
+[ 2026-06-01 23:02:59,265 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:04:37,344 ] 56 root - INFO - Loading object from artifacts/model.pkl
+[ 2026-06-01 23:04:37,346 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:04:37,346 ] 56 root - INFO - Loading object from artifacts/preprocessor.pkl
+[ 2026-06-01 23:04:37,347 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:07:34,925 ] 56 root - INFO - Loading object from artifacts/model.pkl
+[ 2026-06-01 23:07:34,927 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:07:34,928 ] 56 root - INFO - Loading object from artifacts/preprocessor.pkl
+[ 2026-06-01 23:07:34,929 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:16:16,680 ] 56 root - INFO - Loading object from artifacts/model.pkl
+[ 2026-06-01 23:16:16,682 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:16:16,683 ] 56 root - INFO - Loading object from artifacts/preprocessor.pkl
+[ 2026-06-01 23:16:16,684 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:24:17,901 ] 56 root - INFO - Loading object from artifacts/model.pkl
+[ 2026-06-01 23:24:17,908 ] 69 root - INFO - Object loaded successfully
+[ 2026-06-01 23:24:17,908 ] 56 root - INFO - Loading object from artifacts/preprocessor.pkl
+[ 2026-06-01 23:24:17,914 ] 69 root - INFO - Object loaded successfully

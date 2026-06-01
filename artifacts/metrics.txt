@@ -1,0 +1,3 @@
+Best Model: Logistic Regression
+Best F1 Score: 0.6149
+ROC AUC: 0.8411

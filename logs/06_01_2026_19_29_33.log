@@ -1,0 +1,17 @@
+[ 2026-06-01 19:29:33,551 ] 41 root - INFO - Entered Data Ingestion Method
+[ 2026-06-01 19:29:33,566 ] 52 root - INFO - Dataset loaded successfully
+[ 2026-06-01 19:29:33,568 ] 78 root - INFO - Data cleaning completed
+[ 2026-06-01 19:29:33,593 ] 97 root - INFO - Raw data saved
+[ 2026-06-01 19:29:33,622 ] 123 root - INFO - Train Test Split Completed
+[ 2026-06-01 19:29:33,693 ] 132 root - INFO - Train and Test Data Loaded
+[ 2026-06-01 19:29:33,693 ] 92 root - INFO - Numerical Pipeline Created
+[ 2026-06-01 19:29:33,693 ] 96 root - INFO - Categorical Pipeline Created
+[ 2026-06-01 19:29:33,695 ] 162 root - INFO - Applying Preprocessing
+[ 2026-06-01 19:29:33,736 ] 197 root - INFO - Preprocessor Saved
+[ 2026-06-01 19:29:33,736 ] 47 root - INFO - Splitting Training and Testing Data
+[ 2026-06-01 19:29:33,736 ] 96 root - INFO - Training Logistic Regression
+[ 2026-06-01 19:29:33,772 ] 96 root - INFO - Training Random Forest
+[ 2026-06-01 19:29:34,568 ] 96 root - INFO - Training Gradient Boosting
+[ 2026-06-01 19:29:35,310 ] 96 root - INFO - Training AdaBoost
+[ 2026-06-01 19:29:35,983 ] 96 root - INFO - Training SVM
+[ 2026-06-01 19:29:39,313 ] 149 root - INFO - Best Model Saved Successfully

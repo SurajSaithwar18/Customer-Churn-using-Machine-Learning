@@ -1,0 +1,12 @@
+[ 2026-06-01 19:27:12,966 ] 41 root - INFO - Entered Data Ingestion Method
+[ 2026-06-01 19:27:12,988 ] 52 root - INFO - Dataset loaded successfully
+[ 2026-06-01 19:27:12,993 ] 78 root - INFO - Data cleaning completed
+[ 2026-06-01 19:27:13,036 ] 97 root - INFO - Raw data saved
+[ 2026-06-01 19:27:13,077 ] 123 root - INFO - Train Test Split Completed
+[ 2026-06-01 19:27:13,130 ] 132 root - INFO - Train and Test Data Loaded
+[ 2026-06-01 19:27:13,131 ] 92 root - INFO - Numerical Pipeline Created
+[ 2026-06-01 19:27:13,131 ] 96 root - INFO - Categorical Pipeline Created
+[ 2026-06-01 19:27:13,131 ] 162 root - INFO - Applying Preprocessing
+[ 2026-06-01 19:27:13,176 ] 197 root - INFO - Preprocessor Saved
+[ 2026-06-01 19:27:13,176 ] 49 root - INFO - Splitting Training and Testing Data
+[ 2026-06-01 19:27:13,176 ] 98 root - INFO - Training Logistic Regression

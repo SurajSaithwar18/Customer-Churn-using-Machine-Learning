@@ -1,0 +1,21 @@
+[ 2026-06-01 19:51:21,049 ] 41 root - INFO - Entered Data Ingestion Method
+[ 2026-06-01 19:51:21,064 ] 52 root - INFO - Dataset loaded successfully
+[ 2026-06-01 19:51:21,068 ] 78 root - INFO - Data cleaning completed
+[ 2026-06-01 19:51:21,094 ] 97 root - INFO - Raw data saved
+[ 2026-06-01 19:51:21,128 ] 123 root - INFO - Train Test Split Completed
+[ 2026-06-01 19:51:21,191 ] 132 root - INFO - Train and Test Data Loaded
+[ 2026-06-01 19:51:21,191 ] 92 root - INFO - Numerical Pipeline Created
+[ 2026-06-01 19:51:21,191 ] 96 root - INFO - Categorical Pipeline Created
+[ 2026-06-01 19:51:21,192 ] 162 root - INFO - Applying Preprocessing
+[ 2026-06-01 19:51:21,236 ] 22 root - INFO - Saving object at artifacts\preprocessor.pkl
+[ 2026-06-01 19:51:21,239 ] 36 root - INFO - Object saved successfully
+[ 2026-06-01 19:51:21,239 ] 197 root - INFO - Preprocessor Saved
+[ 2026-06-01 19:51:21,240 ] 55 root - INFO - Splitting Training and Testing Data
+[ 2026-06-01 19:51:26,248 ] 139 root - INFO - Training Logistic Regression
+[ 2026-06-01 19:51:26,326 ] 139 root - INFO - Training Random Forest
+[ 2026-06-01 19:51:27,481 ] 139 root - INFO - Training Gradient Boosting
+[ 2026-06-01 19:51:28,341 ] 139 root - INFO - Training AdaBoost
+[ 2026-06-01 19:51:29,221 ] 139 root - INFO - Training SVM
+[ 2026-06-01 19:51:33,424 ] 22 root - INFO - Saving object at artifacts\model.pkl
+[ 2026-06-01 19:51:33,425 ] 36 root - INFO - Object saved successfully
+[ 2026-06-01 19:51:33,425 ] 265 root - INFO - Best Model Saved Successfully
