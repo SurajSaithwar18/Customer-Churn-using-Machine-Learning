@@ -142,7 +142,7 @@ Customer-Churn-Prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/SurajSaithwar18/Customer-Churn-using-Machine-Learning
 ```
 
 Move to project directory:
