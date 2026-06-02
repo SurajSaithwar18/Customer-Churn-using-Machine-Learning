@@ -13,7 +13,7 @@ def get_requirements(file_path: str) -> List[str]:
     return requirements
 
 setup(
-    name='ml_project',
+    name='Customer CHurn Prediction Using Machine Learning',
     version='0.0.1',
     author='Suraj',
     author_email='saithwarsuraj18@gmail.com',
